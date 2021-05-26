@@ -20,6 +20,20 @@ Suppose I choose the year 2000 and then choose the month and date from the Date 
 
 Suppose I choose the 4 Nov and click on OK-
 
+![Screenshot_20210525-223818](https://user-images.githubusercontent.com/64889275/119652167-62867f80-be43-11eb-9c2e-cf311744a093.png)
+
+
+After clicking on OK, the complete Date will be displayed on the screen-
+
+![Screenshot_20210525-223823](https://user-images.githubusercontent.com/64889275/119652266-7d58f400-be43-11eb-9c57-24857d5b223c.png)
+
+
+
+
+
+
+
+
 
 
 
